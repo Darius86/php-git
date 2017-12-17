@@ -1,0 +1,12 @@
+table, td, tr, th{
+   border: 1px black solid ;
+}
+
+.Antraste{
+   background-color: #2e24ff;
+   color:white;
+}
+.fonas{
+   background-color: rgba(8,255,20,0.53);
+   color: rgba(21,10,21,0.57)
+}
